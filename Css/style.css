@@ -1,0 +1,93 @@
+body{ 
+    background-image: url(https://friday.page/images/search-background.jpg);
+}
+
+.komen{
+    max-width: 500px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    max-width: 500px;
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    max-width: 510px;
+}
+
+.keunggulan{
+    border: double 6px rgb(233, 233, 233);
+    padding: 10px 20px;
+    max-width: 500px;
+    
+}
+
+.penjelasan1{
+    border: double 6px rgb(233, 233, 233);
+    padding: 10px 20px;
+    max-width: 500px;
+}
+
+.penjelasan2{
+    border: double 6px rgb(233, 233, 233);
+    padding: 10px 20px;
+    max-width: 500px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 500px;
+    
+}
+
+.radio-button{
+    display: flex;
+    align-items: flex-end;
+}
+
+.input-type{
+    width: 90%;
+
+}
+
+.input-type:focus {
+    border: 2px solid transparent;
+    
+}
+.icon{
+    width: 30%;
+}
+
+.form-hasil{
+    padding: top 50px;
+}
+
+label{
+    font-weight: bold;
+}
+
+p{
+    padding: 30px 30px;
+    text-align: center;
+    max-width: 500px;
+    font-weight: bold;
+
+}
+.total{
+    padding: 30px 30px;
+    text-align: center;
+    max-width: 500px;
+    font-weight: bold;
+    
+}
+
+.komen{
+    margin-bottom: 15px;
+    text-align: center;
+    max-width: 500px;
+    font-weight: bold;
+}
